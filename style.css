@@ -1,0 +1,24 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #0066cc;
+  text-align: center;
+}
+
+ul {
+  background-color: #333;
+  padding: 10px;
+}
+
+ul li {
+  display: inline;
+  margin-right: 15px;
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
+}
