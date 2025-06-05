@@ -17,7 +17,7 @@
   <p>Este site é uma atividade prática de HTML.</p>
 
   <h2>Assista ao vídeo:</h2>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+  <iframe width="560" height="315" src="https://youtu.be/EwT-OdMQDZY?si=5oheD3hSuwqSbusK"
     frameborder="0" allowfullscreen></iframe>
 
   <p><a href="https://www.google.com" target="_blank">Visite o Google</a></p>
